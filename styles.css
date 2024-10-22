@@ -1,5 +1,7 @@
 body {
-	font: bold 11px/1.5em Verdana;
+	background-image: url("paper.gif");
+	background-color: lightblue;
+	font: bold 14px/1.5em Verdana;
 	}
 
 h1 {
